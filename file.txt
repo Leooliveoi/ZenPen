@@ -1,0 +1,11 @@
+Cryptography is the practice and study of techniques for securing communication and information from adversaries. It involves converting data into a format that is unreadable to anyone who does not possess the correct key or method to decrypt it. Here are some key concepts:
+
+Types of Cryptography
+Symmetric Cryptography: Uses the same key for both encryption and decryption. It's fast and efficient for large amounts of data but requires secure key distribution.
+
+Asymmetric Cryptography: Involves a pair of keys—a public key for encryption and a private key for decryption. This allows secure communication without sharing a secret key.
+
+Hash Functions: Transform data into a fixed-size string of characters, which is typically a digest unique to the original data. It’s commonly used for data integrity verification.
+
+
+
