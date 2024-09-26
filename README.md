@@ -19,6 +19,13 @@ A personal tool to encode text into ZenitPolar and PigPen ciphers
 
 ![image](https://github.com/user-attachments/assets/3fbcdb3b-d783-459c-87c8-79643af972f8)
 
+### Security Idea of Usage
+![image](https://github.com/user-attachments/assets/cccd34ec-783b-4b6e-8b99-27c0af522f44)
+
+Data Exifltration
+![image](https://github.com/user-attachments/assets/96baea1e-4368-4a04-b931-e02a626649fe)
+![image](https://github.com/user-attachments/assets/e00bb4c7-9061-40fe-953d-ab3fd2a329e0)
+
 
 ## Decoding
 It is in the todo list
